@@ -2,40 +2,192 @@
 	"$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
 	"file_info": {
 		"authors": [
-			"minein4"
+			"soLo'"
 		],
-		"description": "Cheaters",
-		"title": "ShitList",
-		"update_url": "https://raw.githubusercontent.com/minein4/Shitlist/main/playerlist.shitlist.json"
+		"description": "Losers",
+		"title": "LosersList",
+		"update_url": ""
 	},
 	"players": [
 		{
 			"attributes": [
-				"racist"
+				"cheater"
 			],
 			"last_seen": {
-				"player_name": "kawtohi",
-				"time": 1667781021
+				"player_name": "VTEC"
 			},
-			"steamid": "[U:1:4407167]"
-		},{
-            "$schema": "https://raw.githubusercontent.com/PazerOP/tf2_bot_detector/master/schemas/v3/playerlist.schema.json",
-            "file_info": {
-                "authors": [
-                    "minein4"
-                ],
-                "description": "Cheaters",
-                "title": "ShitList",
-                "update_url": "https://raw.githubusercontent.com/minein4/Shitlist/main/playerlist.shitlist.json"
-            },
-            "players": [
-                {
-                    "attributes": [
-                        "racist"
-                    ],
-                    "last_seen": {
-                        "player_name": "kawtohi",
-                        "time": 1667781021
-                    },
-                    "steamid": "[U:1:4407167]"
-                },
+			"steamid": "[U:1:1032871838]"
+		},
+        {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "VTEC"
+			},
+			"steamid": "[U:1:1023962224]"
+		},
+        {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Jopka"
+			},
+			"steamid": "[U:1:406582405]"
+		},
+        {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ye killa"
+			},
+			"steamid": "[U:1:998535645]"
+		},
+        {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "FemboyNut"
+			},
+			"steamid": "[U:1:1550158921]"
+		},
+        {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "kult"
+			},
+			"steamid": "[U:1:1478830380]"
+		},
+        {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Cole MacGrath"
+			},
+			"steamid": "[U:1:491620115]"
+		},
+        {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "akia"
+			},
+			"steamid": "[U:1:1126787354]"
+		},
+        {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "MyRoWARE"
+			},
+			"steamid": "[U:1:2377517]"
+		},
+        {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Westy"
+			},
+			"steamid": "[U:1:1119524293]"
+		},
+        {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Westy"
+			},
+			"steamid": "[U:1:1123318064]"
+		},
+        {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Filip"
+			},
+			"steamid": "[U:1:329801917]"
+		},
+        {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Aline"
+			},
+			"steamid": "[U:1:1581948017]"
+		},
+        {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "F2P 500 hours no chat :("
+			},
+			"steamid": "[U:1:1582997460]"
+		},
+        {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "timpictor"
+			},
+			"steamid": "[U:1:125005003]"
+		},
+        {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Hans Hamburger."
+			},
+			"steamid": "[U:1:88354087]"
+		},
+        {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "bro"
+			},
+			"steamid": "[U:1:103643619]"
+		},
+        {
+			"attributes": [
+				"associate"
+			],
+			"last_seen": {
+				"player_name": "Chinese Medicine Man"
+			},
+			"steamid": "[U:1:236167102]"
+		},
+        {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "SecondryBullet"
+			},
+			"steamid": "[U:1:1272816668]"
+		},
+        {
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "eno."
+			},
+			"steamid": "[U:1:1474510323]"
+		}
+    ]
+}
