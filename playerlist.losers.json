@@ -18,7 +18,7 @@
 			},
 			"steamid": "[U:1:1032871838]"
 		},
-        {
+        	{
 			"attributes": [
 				"cheater"
 			],
@@ -27,7 +27,7 @@
 			},
 			"steamid": "[U:1:1023962224]"
 		},
-        {
+        	{
 			"attributes": [
 				"cheater"
 			],
@@ -36,7 +36,7 @@
 			},
 			"steamid": "[U:1:406582405]"
 		},
-        {
+        	{
 			"attributes": [
 				"cheater"
 			],
@@ -45,7 +45,7 @@
 			},
 			"steamid": "[U:1:998535645]"
 		},
-        {
+        	{
 			"attributes": [
 				"cheater"
 			],
@@ -54,7 +54,7 @@
 			},
 			"steamid": "[U:1:1550158921]"
 		},
-        {
+        	{
 			"attributes": [
 				"cheater"
 			],
@@ -63,7 +63,7 @@
 			},
 			"steamid": "[U:1:1478830380]"
 		},
-        {
+        	{
 			"attributes": [
 				"cheater"
 			],
@@ -72,7 +72,7 @@
 			},
 			"steamid": "[U:1:491620115]"
 		},
-        {
+        	{
 			"attributes": [
 				"cheater"
 			],
@@ -81,7 +81,7 @@
 			},
 			"steamid": "[U:1:1126787354]"
 		},
-        {
+        	{
 			"attributes": [
 				"cheater"
 			],
@@ -90,7 +90,7 @@
 			},
 			"steamid": "[U:1:2377517]"
 		},
-        {
+        	{
 			"attributes": [
 				"cheater"
 			],
@@ -99,7 +99,7 @@
 			},
 			"steamid": "[U:1:1119524293]"
 		},
-        {
+        	{
 			"attributes": [
 				"cheater"
 			],
@@ -108,7 +108,7 @@
 			},
 			"steamid": "[U:1:1123318064]"
 		},
-        {
+        	{
 			"attributes": [
 				"cheater"
 			],
@@ -117,7 +117,7 @@
 			},
 			"steamid": "[U:1:329801917]"
 		},
-        {
+        	{
 			"attributes": [
 				"cheater"
 			],
@@ -126,7 +126,7 @@
 			},
 			"steamid": "[U:1:1581948017]"
 		},
-        {
+        	{
 			"attributes": [
 				"cheater"
 			],
@@ -135,7 +135,7 @@
 			},
 			"steamid": "[U:1:1582997460]"
 		},
-        {
+        	{
 			"attributes": [
 				"cheater"
 			],
@@ -144,7 +144,7 @@
 			},
 			"steamid": "[U:1:125005003]"
 		},
-        {
+        	{
 			"attributes": [
 				"cheater"
 			],
@@ -153,7 +153,7 @@
 			},
 			"steamid": "[U:1:88354087]"
 		},
-        {
+        	{
 			"attributes": [
 				"cheater"
 			],
@@ -162,7 +162,7 @@
 			},
 			"steamid": "[U:1:103643619]"
 		},
-        {
+        	{
 			"attributes": [
 				"cheater"
 			],
@@ -171,7 +171,7 @@
 			},
 			"steamid": "[U:1:236167102]"
 		},
-        {
+        	{
 			"attributes": [
 				"cheater"
 			],
@@ -180,7 +180,7 @@
 			},
 			"steamid": "[U:1:1272816668]"
 		},
-        {
+        	{
 			"attributes": [
 				"cheater"
 			],
@@ -188,6 +188,15 @@
 				"player_name": "eno."
 			},
 			"steamid": "[U:1:1474510323]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "fuzza"
+			},
+			"steamid": "[U:1:1144410369]"
 		}
     ]
 }
