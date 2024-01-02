@@ -302,7 +302,7 @@
 				"cheater"
 			],
 			"last_seen": {
-				"player_name": "my guy mike"
+				"player_name": "RodneySpeed"
 			},
 			"steamid": "[U:1:277202858]"
 		},
@@ -593,6 +593,51 @@
 				"player_name": "zmeisun80"
 			},
 			"steamid": "[U:1:1569054007]"
-		}
+		},
+		{
+			"attributes": [
+				"defender"
+			],
+			"last_seen": {
+				"player_name": "Ember Tsuji"
+			},
+			"steamid": "[U:1:347495306]"
+		},
+		{
+			"attributes": [
+				"defender"
+			],
+			"last_seen": {
+				"player_name": "States Man Martin"
+			},
+			"steamid": "[U:1:158464813]"
+		},
+		{
+			"attributes": [
+				"defender"
+			],
+			"last_seen": {
+				"player_name": "Deadeye"
+			},
+			"steamid": "[U:1:857799329]"
+		},
+		{
+			"attributes": [
+				"associate"
+			],
+			"last_seen": {
+				"player_name": "enstrøm"
+			},
+			"steamid": "[U:1:208058498]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "i shit my pants"
+			},
+			"steamid": "[U:1:1246282571]"
+		},
     ]
 }
