@@ -11,7 +11,7 @@
 <br>-*Associate*
 <br>This tag is for players who were found playing with cheaters.
 <br>An example of an associate is a player who heals a cheater.
-<br>-*Defenders*
+<br>-*Defender*
 <br>This tag is for players who were defending a cheater during game and refuses to take actions against them (votekick them).
 <br>And on top of this, they start speaking non-sense about they should be good because you pointed them out.
 
