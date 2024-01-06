@@ -917,6 +917,24 @@
 				"player_name": "s0yi"
 			},
 			"steamid": "[U:1:130831992]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "насильник"
+			},
+			"steamid": "[U:1:1549800469]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "shaaden"
+			},
+			"steamid": "[U:1:45497657]"
 		}
     ]
 }
