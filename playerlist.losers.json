@@ -971,6 +971,105 @@
 				"player_name": "fogyer"
 			},
 			"steamid": "[U:1:1591860620]"
+		},
+		{
+			"attributes": [
+				"associate"
+			],
+			"last_seen": {
+				"player_name": "Holy Spirit"
+			},
+			"steamid": "[U:1:1151102124]"
+		},
+		{
+			"attributes": [
+				"associate"
+			],
+			"last_seen": {
+				"player_name": "spirit"
+			},
+			"steamid": "[U:1:346945585]"
+		},
+		{
+			"attributes": [
+				"associate"
+			],
+			"last_seen": {
+				"player_name": "Artricule"
+			},
+			"steamid": "[U:1:1415362135]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "carlotf"
+			},
+			"steamid": "[U:1:1593548051]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Cobson Wells"
+			},
+			"steamid": "[U:1:1644745841]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "I won't heal you don't press E"
+			},
+			"steamid": "[U:1:1461881939]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "SHADOW_WIZARD_MONEY"
+			},
+			"steamid": "[U:1:1272154825]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "-Jolly Noobert"
+			},
+			"steamid": "[U:1:1003747465]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "vex"
+			},
+			"steamid": "[U:1:103683187]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "moloi_330"
+			},
+			"steamid": "[U:1:49350946]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u0432\u0438\u043a\u0442\u043e\u0440\u0438\u044f.dll"
+			},
+			"steamid": "[U:1:1615239850]"
 		}
-    ]
+	]
 }
