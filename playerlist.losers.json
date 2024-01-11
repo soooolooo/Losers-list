@@ -1070,6 +1070,15 @@
 				"player_name": "\u0432\u0438\u043a\u0442\u043e\u0440\u0438\u044f.dll"
 			},
 			"steamid": "[U:1:1615239850]"
+		},
+		{
+			"attributes": [
+				"associate"
+			],
+			"last_seen": {
+				"player_name": "xo"
+			},
+			"steamid": "[U:1:835330876]"
 		}
 	]
 }
