@@ -944,6 +944,33 @@
 				"player_name": "shaaden"
 			},
 			"steamid": "[U:1:297390897]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "observer"
+			},
+			"steamid": "[U:1:1543851175]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Deadlydawn"
+			},
+			"steamid": "[U:1:1527121113]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "fogyer"
+			},
+			"steamid": "[U:1:1591860620]"
 		}
     ]
 }
