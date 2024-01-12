@@ -1079,6 +1079,16 @@
 				"player_name": "xo"
 			},
 			"steamid": "[U:1:835330876]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "justkrzysieu",
+				"time": 1705008563
+			},
+			"steamid": "[U:1:183160439]"
 		}
 	]
 }
