@@ -6,7 +6,7 @@
 
 
 **What are the tags for players in this list?**
-<br>-Cheater
+<br>-*Cheater*
 <br>Straight forward, players who were witnessed cheating.
 <br>-*Associate*
 <br>This tag is for players who were found playing with cheaters.
