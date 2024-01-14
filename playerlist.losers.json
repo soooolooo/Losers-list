@@ -596,6 +596,7 @@
 		},
 		{
 			"attributes": [
+				"suspicious",
 				"defender"
 			],
 			"last_seen": {
@@ -605,6 +606,7 @@
 		},
 		{
 			"attributes": [
+				"suspicious",
 				"defender"
 			],
 			"last_seen": {
@@ -614,6 +616,7 @@
 		},
 		{
 			"attributes": [
+				"suspicious",
 				"defender"
 			],
 			"last_seen": {
@@ -623,6 +626,7 @@
 		},
 		{
 			"attributes": [
+				"suspicious",
 				"associate"
 			],
 			"last_seen": {
@@ -974,6 +978,7 @@
 		},
 		{
 			"attributes": [
+				"suspicious",
 				"associate"
 			],
 			"last_seen": {
@@ -983,6 +988,7 @@
 		},
 		{
 			"attributes": [
+				"suspicious",
 				"associate"
 			],
 			"last_seen": {
@@ -992,6 +998,7 @@
 		},
 		{
 			"attributes": [
+				"suspicious",
 				"associate"
 			],
 			"last_seen": {
@@ -1073,6 +1080,7 @@
 		},
 		{
 			"attributes": [
+				"suspicious",
 				"associate"
 			],
 			"last_seen": {
