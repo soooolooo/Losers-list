@@ -1224,8 +1224,7 @@
 			"proof": [
 				"associate"
 			],
-			"steamid": "[U:1:835330876]",
-			"time": 1704056400
+			"steamid": "[U:1:835330876]"
 		},
 				{
 			"attributes": [
@@ -1276,6 +1275,39 @@
 				"time": 1704056400
 			},
 			"steamid": "[U:1:364136838]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "weird dude",
+				"time": 1704056400
+			},
+			"proof": [
+				"defender"
+			],
+			"steamid": "[U:1:1134465228]"	
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "wait im goated",
+				"time": 1705582846
+			},
+			"steamid": "[U:1:1260249185]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "arc",
+				"time": 1705582846
+			},
+			"steamid": "[U:1:1035503395]"
 		}
 	]
 }
