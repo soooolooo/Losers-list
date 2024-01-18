@@ -1308,6 +1308,16 @@
 				"time": 1705582846
 			},
 			"steamid": "[U:1:1035503395]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "AREN'T WE DONE?",
+				"time": 1704056400
+			},
+			"steamid": "[U:1:161716099]"
 		}
 	]
 }
