@@ -164,11 +164,14 @@
 		},
         	{
 			"attributes": [
-				"associate"
+				"suspicious"
 			],
 			"last_seen": {
 				"player_name": "Chinese Medicine Man"
 			},
+			"proof": [
+				"associate"
+			],
 			"steamid": "[U:1:236167102]"
 		},
         	{
@@ -596,42 +599,50 @@
 		},
 		{
 			"attributes": [
-				"suspicious",
-				"defender"
+				"suspicious"
 			],
 			"last_seen": {
 				"player_name": "Ember Tsuji"
 			},
+			"proof": [
+				"defender"
+			],
 			"steamid": "[U:1:347495306]"
 		},
 		{
 			"attributes": [
-				"suspicious",
-				"defender"
+				"suspicious"
 			],
 			"last_seen": {
 				"player_name": "States Man Martin"
 			},
+			"proof": [
+				"defender"
+			],
 			"steamid": "[U:1:158464813]"
 		},
 		{
 			"attributes": [
-				"suspicious",
-				"defender"
+				"suspicious"
 			],
 			"last_seen": {
 				"player_name": "Deadeye"
 			},
+			"proof": [
+				"defender"
+			],
 			"steamid": "[U:1:857799329]"
 		},
 		{
 			"attributes": [
-				"suspicious",
-				"associate"
+				"suspicious"
 			],
 			"last_seen": {
 				"player_name": "enstrøm"
 			},
+			"proof": [
+				"associate"
+			],
 			"steamid": "[U:1:208058498]"
 		},
 		{
@@ -978,32 +989,38 @@
 		},
 		{
 			"attributes": [
-				"suspicious",
-				"associate"
+				"suspicious"
 			],
 			"last_seen": {
 				"player_name": "Holy Spirit"
 			},
+			"proof": [
+				"associate"
+			],
 			"steamid": "[U:1:1151102124]"
 		},
 		{
 			"attributes": [
-				"suspicious",
-				"associate"
+				"suspicious"
 			],
 			"last_seen": {
 				"player_name": "spirit"
 			},
+			"proof": [
+				"associate"
+			],
 			"steamid": "[U:1:346945585]"
 		},
 		{
 			"attributes": [
-				"suspicious",
-				"associate"
+				"suspicious"
 			],
 			"last_seen": {
 				"player_name": "Artricule"
 			},
+			"proof": [
+				"associate"
+			],
 			"steamid": "[U:1:1415362135]"
 		},
 		{
@@ -1080,12 +1097,14 @@
 		},
 		{
 			"attributes": [
-				"suspicious",
-				"associate"
+				"suspicious"
 			],
 			"last_seen": {
 				"player_name": "xo"
 			},
+			"proof": [
+				"associate"
+			],
 			"steamid": "[U:1:835330876]"
 		},
 				{
