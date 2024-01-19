@@ -1558,6 +1558,58 @@
 				"time": 1705669076
 			},
 			"steamid": "[U:1:1633487327]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Matveukek",
+				"time": 1705669076
+			},
+			"proof": [
+				"defender"
+			],
+			"steamid": "[U:1:1119175294]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Locker-Room Enjoyer",
+				"time": 1705669076
+			},
+			"proof": [
+				"defender"
+			],
+			"steamid": "[U:1:1162347497]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "CosmoHolmes -TPF-",
+				"time": 1705669076
+			},
+			"proof": [
+				"defender"
+			],
+			"steamid": "[U:1:138139592]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "BahForceÃ TOItf2cases.com",
+				"time": 1705669076
+			},
+			"proof": [
+				"defender"
+			],
+			"steamid": "[U:1:339369518]"
 		}
 	]
 }
