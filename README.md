@@ -4,7 +4,6 @@
 <br>This is a list for Team Fortress 2 Bot Detector.
 <br>It includes players who were found cheating, defending or associates with cheater.
 
-
 **What are these additional tags you put in "proof" for players in this list?**
 <br>-*Cheater*
 <br>Straight forward, players who were witnessed cheating.
