@@ -1760,6 +1760,32 @@
 				"time": 1706024405
 			},
 			"steamid": "[U:1:1654064258]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Neo",
+				"time": 1706124237
+			},
+			"proof": [
+				"associate"
+			],
+			"steamid": "[U:1:1001057682]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "dark",
+				"time": 1706124237
+			},
+			"proof": [
+				"associate"
+			],
+			"steamid": "[U:1:184322003]"
 		}
 	]
 }
