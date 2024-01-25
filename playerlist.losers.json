@@ -1786,6 +1786,46 @@
 				"associate"
 			],
 			"steamid": "[U:1:184322003]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Pastika",
+				"time": 1706124237
+			},
+			"steamid": "[U:1:1510614757]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Kr",
+				"time": 1706124237
+			},
+			"steamid": "[U:1:265614172]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "kelp",
+				"time": 1706124237
+			},
+			"steamid": "[U:1:1120055235]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "someone",
+				"time": 1706124237
+			},
+			"steamid": "[U:1:862104699]"
 		}
 	]
 }
