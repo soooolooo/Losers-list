@@ -1826,6 +1826,29 @@
 				"time": 1706124237
 			},
 			"steamid": "[U:1:862104699]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Coward's legacy",
+				"time": 1706124237
+			},
+			"steamid": "[U:1:860049389]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "boo",
+				"time": 1706124237
+			},
+			"proof": [
+				"associate"
+			],
+			"steamid": "[U:1:370000945]"
 		}
 	]
 }
