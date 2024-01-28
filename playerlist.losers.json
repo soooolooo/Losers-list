@@ -1849,6 +1849,108 @@
 				"associate"
 			],
 			"steamid": "[U:1:370000945]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "eleven one",
+				"time": 1706391391
+			},
+			"steamid": "[U:1:1109970823]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Maze",
+				"time": 1706388455
+			},
+			"steamid": "[U:1:1194206292]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "bKmM4RFXNfkM24CxwH88QjB0zheJaKj",
+				"time": 1706390432
+			},
+			"steamid": "[U:1:1614310770]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "soy",
+				"time": 1706390432
+			},
+			"steamid": "[U:1:1014399130]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ддд 300",
+				"time": 1706390432
+			},
+			"steamid": "[U:1:319679601]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Lucas The Fox#SaveTF2",
+				"time": 1706124237
+			},
+			"proof": [
+				"associate"
+			],
+			"steamid": "[U:1:333956048]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "padoru konata (koth)",
+				"time": 1706124237
+			},
+			"proof": [
+				"associate"
+			],
+			"steamid": "[U:1:1005470591]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Very silly individual",
+				"time": 1706124237
+			},
+			"proof": [
+				"associate"
+			],
+			"steamid": "[U:1:471064254]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "racc",
+				"time": 1706124237
+			},
+			"proof": [
+				"associate"
+			],
+			"steamid": "[U:1:248648835]"
 		}
 	]
 }
