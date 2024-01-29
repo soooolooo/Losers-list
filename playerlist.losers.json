@@ -1951,6 +1951,36 @@
 				"associate"
 			],
 			"steamid": "[U:1:248648835]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "xva",
+				"time": 1706390432
+			},
+			"steamid": "[U:1:1009021085]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "snØw",
+				"time": 1706390432
+			},
+			"steamid": "[U:1:531181]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "AUSTRAILIA",
+				"time": 1706390432
+			},
+			"steamid": "[U:1:76110960]"
 		}
 	]
 }
