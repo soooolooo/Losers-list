@@ -2331,6 +2331,16 @@
 				"time": 1706390432
 			},
 			"steamid": "[U:1:1591202357]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "is dead?",
+				"time": 1706390432
+			},
+			"steamid": "[U:1:1097113328]"
 		}
 	]
 }
