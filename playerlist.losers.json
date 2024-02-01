@@ -2301,6 +2301,26 @@
 				"time": 1706390432
 			},
 			"steamid": "[U:1:1515213757]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "blocky",
+				"time": 1706390432
+			},
+			"steamid": "[U:1:1294266273]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "blocky",
+				"time": 1706390432
+			},
+			"steamid": "[U:1:1037462535]"
 		}
 	]
 }
