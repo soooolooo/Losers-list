@@ -2321,6 +2321,16 @@
 				"time": 1706390432
 			},
 			"steamid": "[U:1:1037462535]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Twily",
+				"time": 1706390432
+			},
+			"steamid": "[U:1:1591202357]"
 		}
 	]
 }
