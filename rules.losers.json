@@ -47,7 +47,8 @@
                     "case_sensitive": false,
                     "mode": "contains",
                     "patterns": [
-                        "discord.gg/vacnet"
+                        "discord.gg/vacnet",
+                        "dsc.gg/vacnet"
                     ]
                 }
             }
