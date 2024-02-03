@@ -2351,6 +2351,36 @@
 				"time": 1706390432
 			},
 			"steamid": "[U:1:1287844044]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "paralelep\u00edpedo. \ud83e\uddc3",
+				"time": 1706984523
+			},
+			"steamid": "[U:1:1109105515]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "silly cat",
+				"time": 1706984449
+			},
+			"steamid": "[U:1:1583569210]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dsc.gg/vacnet",
+				"time": 1706985522
+			},
+			"steamid": "[U:1:1668422197]"
 		}
 	]
 }
