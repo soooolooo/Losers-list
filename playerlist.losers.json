@@ -2381,6 +2381,19 @@
 				"time": 1706985522
 			},
 			"steamid": "[U:1:1668422197]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "fixe",
+				"time": 1706124237
+			},
+			"proof": [
+				"associate"
+			],
+			"steamid": "[U:1:1118568320]"
 		}
 	]
 }
