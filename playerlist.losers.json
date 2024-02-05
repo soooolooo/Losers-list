@@ -2394,6 +2394,36 @@
 				"associate"
 			],
 			"steamid": "[U:1:1118568320]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Moonman :^)",
+				"time": 1707160798
+			},
+			"steamid": "[U:1:892980273]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Азиз",
+				"time": 1707160798
+			},
+			"steamid": "[U:1:129410209]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Serious Soyim",
+				"time": 1707160798
+			},
+			"steamid": "[U:1:1638845841]"
 		}
 	]
 }
