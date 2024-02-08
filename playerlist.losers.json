@@ -2793,6 +2793,76 @@
 				"time": 1707405345
 			},
 			"steamid": "[U:1:18862228]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Nass La Menace",
+				"time": 1707405345
+			},
+			"steamid": "[U:1:312378832]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Sgt.Major Dani",
+				"time": 1707405345
+			},
+			"steamid": "[U:1:1665281340]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Sgt.Major Dani",
+				"time": 1707405345
+			},
+			"steamid": "[U:1:1665152501]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "GorPovertyDante",
+				"time": 1707405345
+			},
+			"steamid": "[U:1:1663641873]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "GorDante",
+				"time": 1707405345
+			},
+			"steamid": "[U:1:1663451510]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "GorTrashPCDante",
+				"time": 1707405345
+			},
+			"steamid": "[U:1:1663370229]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "GorDante",
+				"time": 1707405345
+			},
+			"steamid": "[U:1:1663761005]"
 		}
 	]
 }
