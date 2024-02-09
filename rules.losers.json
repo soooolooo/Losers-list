@@ -52,6 +52,22 @@
                     ]
                 }
             }
+        },
+        {
+            "actions": {
+                "mark": [
+                    "cheater"
+                ]
+            },
+            "description": "gor bots",
+            "triggers": {
+                "avatar_match": [
+                    {
+                        "avatar_hash": "7d1cf748dc80d2893a930129527a02f682941e85ff5a13e7009beaf972883852"
+                    }
+                ],
+                "mode": "match_all"
+            }
         }
 	]
 }
