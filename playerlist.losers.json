@@ -2880,12 +2880,102 @@
 			],
 			"last_seen": {
 				"player_name": "ethereal",
-				"time": 11707405345
+				"time": 1707746858
 			},
 			"proof": [
 				"associate"
 			],
 			"steamid": "[U:1:1097741313]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "xXxronnie_mcnuttxXx",
+				"time": 1707746858
+			},
+			"steamid": "[U:1:1665066859]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "xXxronnie_mcnuttxXx",
+				"time": 1707746858
+			},
+			"steamid": "[U:1:1321404167]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "xXxronnie_mcnuttxXx",
+				"time": 1707746858
+			},
+			"steamid": "[U:1:1665026429]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "xXxronnie_mcnuttxXx",
+				"time": 1707746858
+			},
+			"steamid": "[U:1:1664571629]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "xXxronnie_mcnuttxXx",
+				"time": 1707746858
+			},
+			"steamid": "[U:1:1664877375]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Inebriated Detonator",
+				"time": 1707746858
+			},
+			"steamid": "[U:1:175310747]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "nn",
+				"time": 1707746858
+			},
+			"steamid": "[U:1:1666242903]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "cloakith",
+				"time": 1707746858
+			},
+			"steamid": "[U:1:50707834]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Arenateamplayer",
+				"time": 1707746858
+			},
+			"steamid": "[U:1:907898287]"
 		}
 	]
 }
