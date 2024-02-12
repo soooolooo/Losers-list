@@ -179,7 +179,7 @@
 			},
 			"steamid": "[U:1:103643619]"
 		},
-        	{
+        {
 			"attributes": [
 				"suspicious"
 			],
@@ -2873,6 +2873,19 @@
 				"time": 1707405345
 			},
 			"steamid": "[U:1:1605481162]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "ethereal",
+				"time": 11707405345
+			},
+			"proof": [
+				"associate"
+			],
+			"steamid": "[U:1:1097741313]"
 		}
 	]
 }
