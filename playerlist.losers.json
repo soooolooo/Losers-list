@@ -3036,6 +3036,19 @@
 				"time": 1707746858
 			},
 			"steamid": "[U:1:1217312530]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "p00p",
+				"time": 1707746858
+			},
+			"proof": [
+				"defender"
+			],
+			"steamid": "[U:1:204536216]"
 		}
 	]
 }
