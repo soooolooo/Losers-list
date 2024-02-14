@@ -3049,6 +3049,26 @@
 				"defender"
 			],
 			"steamid": "[U:1:204536216]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Furry Gaming",
+				"time": 1707924571
+			},
+			"steamid": "[U:1:1145787402]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Balts",
+				"time": 1707934779
+			},
+			"steamid": "[U:1:1265333510]"
 		}
 	]
 }
