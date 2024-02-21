@@ -9,65 +9,80 @@
 		"update_url": "https://raw.githubusercontent.com/soooolooo/Losers-list/main/rules.losers.json"
 	},
 	"rules": [
-        {
-            "actions": {
-                "mark": [
-                    "cheater"
-                ]
-            },
-            "description": "potion bots",
-            "triggers": {
-                "avatar_match": [
-                    {
-                        "avatar_hash": "e8aa0d6e7531f9875b9b915b81d9013bf366784af4e1752639fe44ed52365e85"
-                    }
-                ],
-                "mode": "match_all",
-                "username_text_match": {
-                    "case_sensitive": false,
-                    "mode": "contains",
-                    "patterns": [
-                        "discord.gg/potion",
-                        "dsc.gg/potion",
-                        "gg/potion"
-                    ]
-                }
-            }
-        },
-        {
-            "actions": {
-                "mark": [
-                    "cheater"
-                ]
-            },
-            "description": "vacnet bots",
-            "triggers": {
-                "mode": "match_all",
-                "username_text_match": {
-                    "case_sensitive": false,
-                    "mode": "contains",
-                    "patterns": [
-                        "discord.gg/vacnet",
-                        "dsc.gg/vacnet"
-                    ]
-                }
-            }
-        },
-        {
-            "actions": {
-                "mark": [
-                    "cheater"
-                ]
-            },
-            "description": "gor bots",
-            "triggers": {
-                "avatar_match": [
-                    {
-                        "avatar_hash": "7d1cf748dc80d2893a930129527a02f682941e85ff5a13e7009beaf972883852"
-                    }
-                ],
-                "mode": "match_all"
-            }
-        }
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "potion bots",
+			"triggers": {
+				"avatar_match": [
+					{
+						"avatar_hash": "e8aa0d6e7531f9875b9b915b81d9013bf366784af4e1752639fe44ed52365e85"
+					}
+				],
+				"mode": "match_all",
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"/^discord.gg/potion/",
+						"/^dsc.gg/potion/",
+						"/gg/potion/"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "vacnet bots",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"/^discord.gg/vacnet/",
+						"/^dsc.gg/vacnet/"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "gor bots",
+			"triggers": {
+				"avatar_match": [
+					{
+						"avatar_hash": "7d1cf748dc80d2893a930129527a02f682941e85ff5a13e7009beaf972883852"
+					}
+				]
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "p2l bots",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"/^youtube.com/@p2l/"
+					]
+				}
+			}
+		}
 	]
 }
