@@ -3242,6 +3242,26 @@
 				"time": 1708939084
 			},
 			"steamid": "[U:1:1256287921]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Norway",
+				"time": 1708939084
+			},
+			"steamid": "[U:1:1602122355]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ownage",
+				"time": 1708939084
+			},
+			"steamid": "[U:1:1568888435]"
 		}
 	]
 }
