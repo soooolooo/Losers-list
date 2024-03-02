@@ -3402,6 +3402,26 @@
 				"time": 1708939084
 			},
 			"steamid": "[U:1:1632192202]"
-		}	
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "rt",
+				"time": 1709346701
+			},
+			"steamid": "[U:1:1609665734]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Stärlight",
+				"time": 1709346701
+			},
+			"steamid": "[U:1:1006453197]"
+		}
 	]
 }
