@@ -3422,6 +3422,16 @@
 				"time": 1709346701
 			},
 			"steamid": "[U:1:1006453197]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "RedParaCoder",
+				"time": 1709346701
+			},
+			"steamid": "[U:1:297217816]"
 		}
 	]
 }
