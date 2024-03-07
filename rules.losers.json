@@ -27,9 +27,9 @@
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
-						"/^discord.gg/potion/",
-						"/^dsc.gg/potion/",
-						"/gg/potion/"
+						"/discord.gg/potion\b/i",
+						"/dsc.gg/potion\b/i",
+						"/gg/potion\b/i"
 					]
 				}
 			}
@@ -46,8 +46,8 @@
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
-						"/^discord.gg/vacnet/",
-						"/^dsc.gg/vacnet/"
+						"/discord.gg/vacnet\b/i",
+						"/dsc.gg/vacnet\b/i"
 					]
 				}
 			}
@@ -79,7 +79,25 @@
 					"case_sensitive": false,
 					"mode": "contains",
 					"patterns": [
-						"/^youtube.com/@p2l/"
+						"/youtube.com/@p2l\b/i"
+					]
+				}
+			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "scriptwonka bots",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"/youtube.com/@ScriptWonka\b/i",
+						"/ScriptWonka\b/i"
 					]
 				}
 			}
