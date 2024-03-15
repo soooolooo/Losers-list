@@ -101,6 +101,23 @@
 					]
 				}
 			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "Mechinator bots",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"/Mechinator\b/i"
+					]
+				}
+			}
 		}
 	]
 }
