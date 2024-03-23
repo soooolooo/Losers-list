@@ -4255,6 +4255,36 @@
 				"defender"
 			],
 			"steamid": "[U:1:227744938]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "doomsday",
+				"time": 1711203131
+			},
+			"steamid": "[U:1:1272265436]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Luna",
+				"time": 1711203131
+			},
+			"steamid": "[U:1:1214042366]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "himoo",
+				"time": 1711160418
+			},
+			"steamid": "[U:1:18686804]"
 		}
 	]
 }
