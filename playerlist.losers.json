@@ -4321,6 +4321,16 @@
 				"defender"
 			],
 			"steamid": "[U:1:67610296]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Doctor Lervix",
+				"time": 1711248014
+			},
+			"steamid": "[U:1:1443852624]"
 		}
 	]
 }
