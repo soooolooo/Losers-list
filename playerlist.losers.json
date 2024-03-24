@@ -4285,6 +4285,42 @@
 				"time": 1711160418
 			},
 			"steamid": "[U:1:18686804]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "useless",
+				"time": 1711248014
+			},
+			"steamid": "[U:1:879433357]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Juniyper",
+				"time": 1711248014
+			},
+			"proof": [
+				"associate"
+			],
+			"steamid": "[U:1:1128559575]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Joey Biden",
+				"time": 1711248014
+			},
+			"proof": [
+				"defender"
+			],
+			"steamid": "[U:1:67610296]"
 		}
 	]
 }
