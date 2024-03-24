@@ -118,6 +118,23 @@
 					]
 				}
 			}
+		},
+		{
+			"actions": {
+				"mark": [
+					"cheater"
+				]
+			},
+			"description": "ETF2L Slipknot bots",
+			"triggers": {
+				"username_text_match": {
+					"case_sensitive": false,
+					"mode": "contains",
+					"patterns": [
+						"/[ETF2L] Slipknot\b/i"
+					]
+				}
+			}
 		}
 	]
 }
