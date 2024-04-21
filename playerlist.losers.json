@@ -4931,6 +4931,46 @@
 				"time": 1712501101
 			},
 			"steamid": "[U:1:1697435499]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "solar",
+				"time": 1712843736
+			},
+			"steamid": "[U:1:472446935]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "QuantumSpectre",
+				"time": 1712849676
+			},
+			"steamid": "[U:1:1177236252]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "poopshitfart",
+				"time": 1712745483
+			},
+			"steamid": "[U:1:1709241024]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "[$]",
+				"time": 1713703151
+			},
+			"steamid": "[U:1:1196144439]"
 		}
 	]
 }
