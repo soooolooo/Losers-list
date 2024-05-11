@@ -6571,6 +6571,26 @@
 				"time": 1715332209
 			},
 			"steamid": "[U:1:1553641078]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Delia Garcia",
+				"time": 1715429773
+			},
+			"steamid": "[U:1:1719353556]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "REAL",
+				"time": 1715429773
+			},
+			"steamid": "[U:1:1677427919]"
 		}
 	]
 }
