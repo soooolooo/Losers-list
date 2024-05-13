@@ -6581,6 +6581,26 @@
 				"time": 1715429773
 			},
 			"steamid": "[U:1:1677427919]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "kedat",
+				"time": 1715429773
+			},
+			"steamid": "[U:1:243872423]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "kedat",
+				"time": 1715429773
+			},
+			"steamid": "[U:1:1183912273]"
 		}
 	]
 }
