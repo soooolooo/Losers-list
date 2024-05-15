@@ -6723,6 +6723,36 @@
 				"time": 1715622784
 			},
 			"steamid": "[U:1:1692673641]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Oli",
+				"time": 1715622784
+			},
+			"steamid": "[U:1:1349617618]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Bird_Jesus",
+				"time": 1715622784
+			},
+			"steamid": "[U:1:245391983]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Beer",
+				"time": 1715622784
+			},
+			"steamid": "[U:1:899757345]"
 		}
 	]
 }
