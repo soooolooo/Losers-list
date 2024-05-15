@@ -6601,6 +6601,128 @@
 				"time": 1715429773
 			},
 			"steamid": "[U:1:1183912273]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "hideous divinity",
+				"time": 1715772731
+			},
+			"steamid": "[U:1:309037708]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "zip it, lock it",
+				"time": 1715772731
+			},
+			"steamid": "[U:1:1589523020]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "lolipop",
+				"time": 1715772731
+			},
+			"proof": [
+				"associate"
+			],
+			"steamid": "[U:1:1541451312]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "The Ottoman Lobster",
+				"time": 1715772731
+			},
+			"proof": [
+				"defender"
+			],
+			"steamid": "[U:1:1111300459]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Cock Inspector (Doctor Sex)",
+				"time": 1715772731
+			},
+			"proof": [
+				"defender"
+			],
+			"steamid": "[U:1:1297001370]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "ghili.imdad",
+				"time": 1715772731
+			},
+			"proof": [
+				"defender"
+			],
+			"steamid": "[U:1:1162800114]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "M\u0119chi\u00f1a\u0163o\u0159",
+				"time": 1715430455
+			},
+			"steamid": "[U:1:1703821449]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "poopshitfart",
+				"time": 1712745483
+			},
+			"steamid": "[U:1:1709241024]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Delia Garcia",
+				"time": 1715429773
+			},
+			"steamid": "[U:1:1719353556]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "sigmagir489skibidi",
+				"time": 1715624563
+			},
+			"steamid": "[U:1:1720604406]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Mechin\u00e4t\u0304or",
+				"time": 1715622784
+			},
+			"steamid": "[U:1:1692673641]"
 		}
 	]
 }
