@@ -7071,6 +7071,29 @@
 				"time": 1717927332
 			},
 			"steamid": "[U:1:319301827]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Maximi",
+				"time": 1717986535
+			},
+			"proof": [
+				"defender"
+			],
+			"steamid": "[U:1:238249062]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ash.camp",
+				"time": 1717986095
+			},
+			"steamid": "[U:1:1104323730]"
 		}
 	]
 }
