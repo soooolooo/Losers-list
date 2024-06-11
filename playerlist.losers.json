@@ -7094,6 +7094,58 @@
 				"time": 1717986095
 			},
 			"steamid": "[U:1:1104323730]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Mister Magoo",
+				"time": 1717927332
+			},
+			"proof": [
+				"defender"
+			],
+			"steamid": "[U:1:838955876]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "an actual racist",
+				"time": 1717927332
+			},
+			"proof": [
+				"defender"
+			],
+			"steamid": "[U:1:1472494292]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Servet",
+				"time": 1717927332
+			},
+			"proof": [
+				"defender"
+			],
+			"steamid": "[U:1:1003555557]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Lorant The Almighty",
+				"time": 1717927332
+			},
+			"proof": [
+				"defender"
+			],
+			"steamid": "[U:1:1128095211]"
 		}
 	]
 }
