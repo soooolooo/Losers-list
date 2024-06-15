@@ -7775,6 +7775,19 @@
 				"defender"
 			],
 			"steamid": "[U:1:1616236732]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "dope ass pirate skeleton",
+				"time": 1718440823
+			},
+			"proof": [
+				"associate"
+			],
+			"steamid": "[U:1:209092026]"
 		}
 	]
 }
