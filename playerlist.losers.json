@@ -7788,6 +7788,76 @@
 				"associate"
 			],
 			"steamid": "[U:1:209092026]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Mechinator #RosneIsLyfe",
+				"time": 1719032799
+			},
+			"steamid": "[U:1:1507796274]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "mge Fighter",
+				"time": 1719032799
+			},
+			"steamid": "[U:1:1581908445]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "twinklover4444",
+				"time": 1719032799
+			},
+			"steamid": "[U:1:1555682293]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "born to brony",
+				"time": 1719032799
+			},
+			"steamid": "[U:1:1583212826]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "hyperliverfailure",
+				"time": 1719032799
+			},
+			"steamid": "[U:1:1507955750]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "BURNING WIZARD",
+				"time": 1719032799
+			},
+			"steamid": "[U:1:1630671591]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "hotdog_2077",
+				"time": 1719032799
+			},
+			"steamid": "[U:1:1734741476]"
 		}
 	]
 }
