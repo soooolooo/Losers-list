@@ -8597,6 +8597,62 @@
 				"time": 1719147015
 			},
 			"steamid": "[U:1:1007043549]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "TripinBallz #RustyLoot",
+				"time": 1719704637
+			},
+			"steamid": "[U:1:331715892]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Adolf The Painter",
+				"time": 1719810989
+			},
+			"steamid": "[U:1:1768025749]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "A witch",
+				"time": 1719810989
+			},
+			"steamid": "[U:1:1530024056]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "The Lunatic is in the House",
+				"time": 1719810989
+			},
+			"proof": [
+				"defender"
+			],
+			"steamid": "[U:1:26789702]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "UWotMate",
+				"time": 1719810989
+			},
+			"proof": [
+				"defender"
+			],
+			"steamid": "[U:1:442159597]"
 		}
 	]
 }
