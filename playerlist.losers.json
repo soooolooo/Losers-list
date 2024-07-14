@@ -8653,6 +8653,39 @@
 				"defender"
 			],
 			"steamid": "[U:1:442159597]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Brug",
+				"time": 1720988129
+			},
+			"steamid": "[U:1:1200456336]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "AHA/\\bHAR_bAbO4KA",
+				"time": 1720988129
+			},
+			"steamid": "[U:1:439402789]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "MoMo",
+				"time": 1720988129
+			},
+			"proof": [
+				"associate"
+			],
+			"steamid": "[U:1:330364478]"
 		}
 	]
 }
