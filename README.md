@@ -22,7 +22,7 @@
 <br>Fellas who helps filling the list:
 <br>
 <ul>
-  <li><a href="https://steamcommunity.com/id/herfy/">mun</a></li>
+  <li><a href="https://steamcommunity.com/id/o_--/">mun</a></li>
   <li><a href="https://steamcommunity.com/id/maximuxOD/">Maximus OverDrive</a></li>
   <li><a href="https://steamcommunity.com/profiles/76561199051809734/">TreK9</a></li>
   <li>ext_</li>
