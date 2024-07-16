@@ -8686,6 +8686,19 @@
 				"associate"
 			],
 			"steamid": "[U:1:330364478]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Lyra",
+				"time": 1720988129
+			},
+			"proof": [
+				"associate"
+			],
+			"steamid": "[U:1:83336110]"
 		}
 	]
 }
