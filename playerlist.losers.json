@@ -8699,6 +8699,16 @@
 				"associate"
 			],
 			"steamid": "[U:1:83336110]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "master on life",
+				"time": 1721838785
+			},
+			"steamid": "[U:1:1271053171]"
 		}
 	]
 }
