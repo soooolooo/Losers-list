@@ -8769,6 +8769,56 @@
 				"time": 1722403525
 			},
 			"steamid": "[U:1:1596429315]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "TheB3ni",
+				"time": 1722945195
+			},
+			"steamid": "[U:1:372282806]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "s4mura1",
+				"time": 1721112752
+			},
+			"steamid": "[U:1:401736278]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "AHA/\\bHAR_bAbO4KA",
+				"time": 1719888892
+			},
+			"steamid": "[U:1:439402789]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Drunken Demoman",
+				"time": 1721224806
+			},
+			"steamid": "[U:1:1423191659]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dont cry babe :(",
+				"time": 1721027382
+			},
+			"steamid": "[U:1:1621257447]"
 		}
 	]
 }
