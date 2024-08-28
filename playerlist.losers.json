@@ -8839,6 +8839,36 @@
 				"time": 1724543867
 			},
 			"steamid": "[U:1:1802920774]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "voiddy勇気",
+				"time": 1724821511
+			},
+			"steamid": "[U:1:1801128120]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Олежа Магнитофон",
+				"time": 1724821511
+			},
+			"steamid": "[U:1:1035901907]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "asfafafafafafawrt36456",
+				"time": 1724821511
+			},
+			"steamid": "[U:1:1801773243]"
 		}
 	]
 }
