@@ -8869,6 +8869,26 @@
 				"time": 1724821511
 			},
 			"steamid": "[U:1:1527664280]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": ".secnyx",
+				"time": 1727845254
+			},
+			"steamid": "[U:1:1791866014]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "walverin",
+				"time": 1726808196
+			},
+			"steamid": "[U:1:1821757096]"
 		}
 	]
 }
