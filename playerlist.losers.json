@@ -8889,6 +8889,31 @@
 				"time": 1726808196
 			},
 			"steamid": "[U:1:1821757096]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Untriangled",
+				"time": 1732765982
+			},
+			"steamid": "[U:1:1190194289]"
+		},
+		,
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "femboy nazi :3",
+				"time": 1732758618
+			},
+			"proof": [
+				"defender"
+			],
+			"steamid": "[U:1:1829927646]"
 		}
+
 	]
 }
