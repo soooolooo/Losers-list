@@ -8951,6 +8951,32 @@
 				"defender"
 			],
 			"steamid": "[U:1:469941523]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "the ma4t3r h4xx0r",
+				"time": 1732978192
+			},
+			"proof": [
+				"defender"
+			],
+			"steamid": "[U:1:1484534096]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Uli",
+				"time": 1732978192
+			},
+			"proof": [
+				"defender"
+			],
+			"steamid": "[U:1:33335543]"
 		}
 	]
 }
