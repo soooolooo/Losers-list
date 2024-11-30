@@ -8912,7 +8912,45 @@
 				"defender"
 			],
 			"steamid": "[U:1:1829927646]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Shinki",
+				"time": 1732977978
+			},
+			"proof": [
+				"associate"
+			],
+			"steamid": "[U:1:227758045]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "\ud835\udd38\ud835\udd55\ud835\udd66\ud835\udd5e\ud835\udd53",
+				"time": 1732978008
+			},
+			"proof": [
+				"defender"
+			],
+			"steamid": "[U:1:312456395]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Divine",
+				"time": 1732978192
+			},
+			"proof": [
+				"defender"
+			],
+			"steamid": "[U:1:469941523]"
 		}
-
 	]
 }
