@@ -8977,6 +8977,56 @@
 				"defender"
 			],
 			"steamid": "[U:1:33335543]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "cck",
+				"time": 1733879276
+			},
+			"steamid": "[U:1:1020044294]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u0e47\u0e47\u0e47",
+				"time": 1733883299
+			},
+			"steamid": "[U:1:1590433549]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Thinscience",
+				"time": 1733884038
+			},
+			"steamid": "[U:1:1830143935]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Iris<3",
+				"time": 1733879627
+			},
+			"steamid": "[U:1:1841437854]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u0631\u062c\u0644 \u062b\u0644\u062c \u0627\u0644\u063a\u0631\u0628",
+				"time": 1733879562
+			},
+			"steamid": "[U:1:1843019303]"
 		}
 	]
 }
