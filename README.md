@@ -22,9 +22,10 @@
 <br>Fellas who helps filling the list:
 <br>
 <ul>
-  <li><a href="https://steamcommunity.com/id/o_--/">mun</a></li>
-  <li><a href="https://steamcommunity.com/id/maximuxOD/">Maximus OverDrive</a></li>
+  <li><a href="https://steamcommunity.com/profiles/76561198389852292">mun</a></li>
+  <li><a href="https://steamcommunity.com/profiles/76561198081041276">Maximus OverDrive</a></li>
   <li><a href="https://steamcommunity.com/profiles/76561199051809734/">TreK9</a></li>
   <li>ext_</li>
-  <li><a href="https://steamcommunity.com/id/Pop-Dog/">venoxy_</a></li>
+  <li><a href="https://steamcommunity.com/profiles/76561197960792284">venoxy_</a></li>
+  <li><a href="https://steamcommunity.com/profiles/76561198202816899">Repurify</a></li>
 </ul>
