@@ -9377,6 +9377,39 @@
 				"time": 1734494750
 			},
 			"steamid": "[U:1:1068635138]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Skissn",
+				"time": 1734780334
+			},
+			"proof": [
+				"defender"
+			],
+			"steamid": "[U:1:1533973388]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\ud83c\udf42 Autumn Mk.II \ud83c\udf41",
+				"time": 1734780073
+			},
+			"steamid": "[U:1:1554585881]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "French Cat",
+				"time": 1734779080
+			},
+			"steamid": "[U:1:1729800674]"
 		}
 	]
 }
