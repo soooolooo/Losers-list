@@ -9470,6 +9470,29 @@
 				"time": 1734851771
 			},
 			"steamid": "[U:1:1770185286]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "big black monki boy",
+				"time": 1734870720
+			},
+			"steamid": "[U:1:1154464568]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "useless",
+				"time": 1734871156
+			},
+			"proof": [
+				"defender"
+			],
+			"steamid": "[U:1:1270725995]"
 		}
 	]
 }
