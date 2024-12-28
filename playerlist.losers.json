@@ -9493,6 +9493,66 @@
 				"defender"
 			],
 			"steamid": "[U:1:1270725995]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Master Spy 10Kh",
+				"time": 1735377933
+			},
+			"steamid": "[U:1:1819007427]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Lain ✨",
+				"time": 1735377933
+			},
+			"steamid": "[U:1:38964974]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "garasuka87",
+				"time": 1735377933
+			},
+			"steamid": "[U:1:1611526925]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "deadly",
+				"time": 1735377933
+			},
+			"steamid": "[U:1:1219133420]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "dot-com",
+				"time": 1735377933
+			},
+			"steamid": "[U:1:1162988647]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "fentaminator",
+				"time": 1735377933
+			},
+			"steamid": "[U:1:244672879]"
 		}
 	]
 }
