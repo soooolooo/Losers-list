@@ -9553,6 +9553,46 @@
 				"time": 1735377933
 			},
 			"steamid": "[U:1:244672879]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Frgic",
+				"time": 1735480433
+			},
+			"steamid": "[U:1:1051859217]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "retired comp player",
+				"time": 1735480433
+			},
+			"steamid": "[U:1:1217151992]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "DrippyGum",
+				"time": 1735480433
+			},
+			"steamid": "[U:1:1619821530]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "LuckyBreaker100",
+				"time": 1735480433
+			},
+			"steamid": "[U:1:1847757839]"
 		}
 	]
 }
