@@ -9683,6 +9683,26 @@
 				"time": 1736016804
 			},
 			"steamid": "[U:1:1841458381]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "saviour",
+				"time": 1736221141
+			},
+			"steamid": "[U:1:934709457]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "I am mister serious...",
+				"time": 1736221141
+			},
+			"steamid": "[U:1:1768823245]"
 		}
 	]
 }
