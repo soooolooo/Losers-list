@@ -9703,6 +9703,49 @@
 				"time": 1736221141
 			},
 			"steamid": "[U:1:1768823245]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "toesucker",
+				"time": 1736304344
+			},
+			"steamid": "[U:1:1855000215]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ProMario",
+				"time": 1736304344
+			},
+			"steamid": "[U:1:1138292810]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Randy",
+				"time": 1736304344
+			},
+			"steamid": "[U:1:1650574280]"
+		},
+		{
+			"attributes": [
+				"suspicious"
+			],
+			"last_seen": {
+				"player_name": "Meu",
+				"time": 1736304344
+			},
+			"proof": [
+				"associate"
+			],
+			"steamid": "[U:1:366246047]"
 		}
 	]
 }
