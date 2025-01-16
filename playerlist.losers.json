@@ -9916,6 +9916,46 @@
 				"time": 1736767881
 			},
 			"steamid": "[U:1:1849377601]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "mainroad",
+				"time": 1736866727
+			},
+			"steamid": "[U:1:901289869]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "aleksandar",
+				"time": 1736983295
+			},
+			"steamid": "[U:1:1542650229]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u0421\u0432\u044f\u0422\u043e\u0439_\u0422\u0430\u043f\u043e\u041a",
+				"time": 1736913553
+			},
+			"steamid": "[U:1:1543333260]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "MeowMan",
+				"time": 1736914102
+			},
+			"steamid": "[U:1:1856477974]"
 		}
 	]
 }
