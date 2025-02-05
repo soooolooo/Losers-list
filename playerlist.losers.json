@@ -10066,6 +10066,56 @@
 				"time": 1737454691
 			},
 			"steamid": "[U:1:1513077528]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u4f60\u6bcd\u89aa\u7684\u5927\u4f7f\u25e3_\u25e2",
+				"time": 1737632096
+			},
+			"steamid": "[U:1:465183715]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Pohuist",
+				"time": 1738751870
+			},
+			"steamid": "[U:1:1043960491]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "gas station tweaker",
+				"time": 1737616610
+			},
+			"steamid": "[U:1:1609132599]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ben_dover",
+				"time": 1738220384
+			},
+			"steamid": "[U:1:1791294109]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Лэтвын",
+				"time": 1738751870
+			},
+			"steamid": "[U:1:1850018126]"
 		}
 	]
 }
