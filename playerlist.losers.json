@@ -10406,6 +10406,156 @@
 				"time": 1746049793
 			},
 			"steamid": "[U:1:1885377225]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "[\u142f\u15e9\u14aa\u142fE] MOSSAD",
+				"time": 1748716912
+			},
+			"steamid": "[U:1:57967341]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "aruari",
+				"time": 1748198535
+			},
+			"steamid": "[U:1:176479566]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "White Division",
+				"time": 1748716936
+			},
+			"steamid": "[U:1:918950083]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "76561199082745168",
+				"time": 1748716914
+			},
+			"steamid": "[U:1:1122479440]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "76561199091910594",
+				"time": 1748716918
+			},
+			"steamid": "[U:1:1131644866]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "gandalfthewziard",
+				"time": 1748765965
+			},
+			"steamid": "[U:1:1268538274]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "76561199470761190",
+				"time": 1748716916
+			},
+			"steamid": "[U:1:1510495462]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "76561199482444663",
+				"time": 1748716921
+			},
+			"steamid": "[U:1:1522178935]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"time": 1748201190
+			},
+			"steamid": "[U:1:1711106926]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "The Green Goober",
+				"time": 1748765850
+			},
+			"steamid": "[U:1:1901539572]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "The Verizon Employee",
+				"time": 1748765853
+			},
+			"steamid": "[U:1:1901748925]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "The Gold Standard",
+				"time": 1748765846
+			},
+			"steamid": "[U:1:1901860162]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "The Blue Gentleman",
+				"time": 1748765848
+			},
+			"steamid": "[U:1:1902140364]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "The Yeller Feller",
+				"time": 1748765844
+			},
+			"steamid": "[U:1:1902230045]"
+		}
+		,
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Tagliavene",
+				"time": 1748765844
+			},
+			"steamid": "[U:1:1577881894]"
 		}
 	]
 }
