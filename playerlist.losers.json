@@ -10556,6 +10556,26 @@
 				"time": 1748765844
 			},
 			"steamid": "[U:1:1577881894]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Sophie",
+				"time": 1748868469
+			},
+			"steamid": "[U:1:1036287840]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "French Cat",
+				"time": 1748868469
+			},
+			"steamid": "[U:1:1729800674]"
 		}
 	]
 }
