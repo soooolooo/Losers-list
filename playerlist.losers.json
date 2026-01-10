@@ -10956,6 +10956,26 @@
 				"time": 1763411996
 			},
 			"steamid": "[U:1:1663188344]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "IGROK",
+				"time": 1767686368
+			},
+			"steamid": "[U:1:1260962090]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Average sniper player",
+				"time": 1767670796
+			},
+			"steamid": "[U:1:1873004860]"
 		}
 	]
 }
