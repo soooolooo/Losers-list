@@ -11066,6 +11066,46 @@
 				"time": 1770658114
 			},
 			"steamid": "[U:1:1358723307]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Regalescu",
+				"time": 1770824936
+			},
+			"steamid": "[U:1:1506126363]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "TACHATACA",
+				"time": 1771389636
+			},
+			"steamid": "[U:1:1668492746]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "robots",
+				"time": 1770854291
+			},
+			"steamid": "[U:1:1737368152]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "kronii",
+				"time": 1770854291
+			},
+			"steamid": "[U:1:1420207021]"
 		}
 	]
 }
