@@ -11116,6 +11116,56 @@
 				"time": 1770854291
 			},
 			"steamid": "[U:1:94007822]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "8h28h112002",
+				"time": 1770854291
+			},
+			"steamid": "[U:1:775064141]"
+		},
+				{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Sir Calix",
+				"time": 1771696903
+			},
+			"steamid": "[U:1:317831905]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Yuzi",
+				"time": 1771693387
+			},
+			"steamid": "[U:1:802095712]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "chud",
+				"time": 1771951837
+			},
+			"steamid": "[U:1:823508497]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "76561199116354152",
+				"time": 1772016989
+			},
+			"steamid": "[U:1:1156088424]"
 		}
 	]
 }
