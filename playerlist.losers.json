@@ -11166,6 +11166,47 @@
 				"time": 1772016989
 			},
 			"steamid": "[U:1:1156088424]"
+		},
+		,
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "76561198875305563",
+				"time": 1772389108
+			},
+			"steamid": "[U:1:915039835]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "VITAS",
+				"time": 1772388051
+			},
+			"steamid": "[U:1:1099036941]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "76561199116354152",
+				"time": 1772016989
+			},
+			"steamid": "[U:1:1156088424]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "◧DIPSY_BLACK◨",
+				"time": 1772016989
+			},
+			"steamid": "[U:1:1596823570]"
 		}
 	]
 }
