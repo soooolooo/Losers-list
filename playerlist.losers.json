@@ -11207,6 +11207,26 @@
 				"time": 1772016989
 			},
 			"steamid": "[U:1:1596823570]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "six sayven",
+				"time": 1772016989
+			},
+			"steamid": "[U:1:1866741063]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "idrtro",
+				"time": 1772016989
+			},
+			"steamid": "[U:1:1744281]"
 		}
 	]
 }
