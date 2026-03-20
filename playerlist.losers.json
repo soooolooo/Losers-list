@@ -11167,7 +11167,6 @@
 			},
 			"steamid": "[U:1:1156088424]"
 		},
-		,
 		{
 			"attributes": [
 				"cheater"
@@ -11227,6 +11226,26 @@
 				"time": 1772016989
 			},
 			"steamid": "[U:1:1744281]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "really papa??",
+				"time": 1772016989
+			},
+			"steamid": "[U:1:785774915]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "(FAKMYRA) fatmagic",
+				"time": 1773995888
+			},
+			"steamid": "[U:1:766311272]"
 		}
 	]
 }
