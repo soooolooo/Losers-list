@@ -11326,6 +11326,26 @@
 				"time": 1773995888
 			},
 			"steamid": "[U:1:152084627]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "e-Jacc-ulator(F2P)",
+				"time": 1774809154
+			},
+			"steamid": "[U:1:1922587662]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "SunStrike",
+				"time": 1775327189
+			},
+			"steamid": "[U:1:786083441]"
 		}
 	]
 }
