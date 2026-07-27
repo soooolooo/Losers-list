@@ -11506,6 +11506,36 @@
 				"time": 1784420419
 			},
 			"steamid": "[U:1:1588984795]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "raz",
+				"time": 1784604289
+			},
+			"steamid": "[U:1:422956455]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Sally",
+				"time": 1784604289
+			},
+			"steamid": "[U:1:1906904536]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "CRY_Guy",
+				"time": 1784604289
+			},
+			"steamid": "[U:1:1588984795]"
 		}
 	]
 }
