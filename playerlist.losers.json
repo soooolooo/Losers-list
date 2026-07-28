@@ -11536,6 +11536,36 @@
 				"time": 1784604289
 			},
 			"steamid": "[U:1:1588984795]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "perfectkillerX",
+				"time": 1784604289
+			},
+			"steamid": "[U:1:1473595211]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u0443\u043a\u0440\u0430\u0442\u0438\u0442\u0435\u043b\u044c \u0435\u0434\u044b",
+				"time": 1785129497
+			},
+			"steamid": "[U:1:778212152]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u041f\u0440\u044f\u043d\u0438\u043a",
+				"time": 1785129805
+			},
+			"steamid": "[U:1:823226778]"
 		}
 	]
 }
