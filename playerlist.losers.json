@@ -11566,6 +11566,57 @@
 				"time": 1785129805
 			},
 			"steamid": "[U:1:823226778]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "\u0427\u0418\u041f\u0421\u041e\u041d\u0427\u0418\u041a\u0418",
+				"time": 1787033341
+			},
+			"steamid": "[U:1:792788290]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "3hm4t",
+				"time": 1787032737
+			},
+			"steamid": "[U:1:1316359417]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "M05TF4",
+				"time": 1787026597
+			},
+			"steamid": "[U:1:1732974275]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "big boi",
+				"time": 1788043184
+			},
+			"steamid": "[U:1:1281251201]"
+		}
+		,
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Swipezey_xd",
+				"time": 1788043184
+			},
+			"steamid": "[U:1:451113964]"
 		}
 	]
 }
