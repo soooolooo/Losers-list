@@ -11606,8 +11606,7 @@
 				"time": 1788043184
 			},
 			"steamid": "[U:1:1281251201]"
-		}
-		,
+		},
 		{
 			"attributes": [
 				"cheater"
@@ -11617,6 +11616,26 @@
 				"time": 1788043184
 			},
 			"steamid": "[U:1:451113964]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Swipezey_xd",
+				"time": 1788043184
+			},
+			"steamid": "[U:1:1620852086]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "ddsds",
+				"time": 1788839828
+			},
+			"steamid": "[U:1:744103600]"
 		}
 	]
 }
