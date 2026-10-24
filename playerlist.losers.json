@@ -12346,6 +12346,66 @@
 				"time": 1792877917
 			},
 			"steamid": "[U:1:874059561]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "SCP-079",
+				"time": 1792877917
+			},
+			"steamid": "[U:1:802666657]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "алдау туралы еске",
+				"time": 1792877917
+			},
+			"steamid": "[U:1:1856841555]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Saturnal",
+				"time": 1792877917
+			},
+			"steamid": "[U:1:1270491158]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "neveragain",
+				"time": 1792877917
+			},
+			"steamid": "[U:1:1862152693]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Xiombert",
+				"time": 1792877917
+			},
+			"steamid": "[U:1:1106892638]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "LARRY",
+				"time": 1792877917
+			},
+			"steamid": "[U:1:1584277094]"
 		}
 	]
 }
