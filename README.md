@@ -30,4 +30,7 @@
   <li><a href="https://steamcommunity.com/profiles/76561198202816899">Repurify</a></li>
   <li><a href="https://steamcommunity.com/profiles/76561197999362239/">Mankind</a></li>
   <li><a href="https://steamcommunity.com/profiles/76561198073382327/">elikh</a></li>
+  <li><a href="https://steamcommunity.com/profiles/76561199213304344/">ishu</a></li>
+  <li>repurify</li>
+  <li>Master Of Noob</li>
 </ul>
