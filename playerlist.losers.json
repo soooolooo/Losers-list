@@ -13847,6 +13847,36 @@
 				"time": 1793030224
 			},
 			"steamid": "[U:1:1134289841]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "total idiot",
+				"time": 1793030224
+			},
+			"steamid": "[U:1:1424114371]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "TornTheCrusader",
+				"time": 1793030224
+			},
+			"steamid": "[U:1:922548077]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "why won't you pocket me?",
+				"time": 1793030224
+			},
+			"steamid": "[U:1:1880122638]"
 		}
 	]
 }
