@@ -15517,6 +15517,76 @@
 				"time": 1793030224
 			},
 			"steamid": "[U:1:1238413342]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Kingston 4!",
+				"time": 1794325187
+			},
+			"steamid": "[U:1:1707901333]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "HmoodKW",
+				"time": 1794325187
+			},
+			"steamid": "[U:1:1025060176]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Geeko",
+				"time": 1794325187
+			},
+			"steamid": "[U:1:75006574]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "victor",
+				"time": 1794325187
+			},
+			"steamid": "[U:1:689671895]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Xasthur",
+				"time": 1794325187
+			},
+			"steamid": "[U:1:1841154668]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Витя Сутенёр",
+				"time": 1794325187
+			},
+			"steamid": "[U:1:1648689522]"
+		},
+		{
+			"attributes": [
+				"cheater"
+			],
+			"last_seen": {
+				"player_name": "Black Mann",
+				"time": 1794325187
+			},
+			"steamid": "[U:1:1517997533]"
 		}
 	]
 }
